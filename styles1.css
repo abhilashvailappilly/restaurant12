@@ -1,0 +1,65 @@
+.reviews{
+    background-color: rgb(236, 232, 232);
+}
+
+.review1{
+    background-color: blanchedalmond;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: natu;
+}
+
+
+.review_header{
+    font-size: 6rem;
+    font-family: 'nautilus_pompiliusregular';
+}
+
+.review_card{
+    background-color: white;
+    
+}
+
+.reservation_selectbox{
+
+        display: block;
+        margin: 0 auto;
+        
+}
+.center {
+    text-align: center;
+    /*These options are for the div to be visible in the example, the important is the first*/
+    border:1px solid black;
+    width: auto;
+    height: 50px;
+}
+.checked{
+    color:#f81a12;
+}
+
+.review_customer_name{
+    font-weight: bold;
+    font-size:3rem;
+}
+
+.body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+  .menue{
+    margin:30px;
+}
+
+.moreicon{
+    font-size: 4rem;
+  
+    margin-left: 50%;
+    
+}
